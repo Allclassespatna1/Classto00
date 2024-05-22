@@ -1,6 +1,6 @@
 # txt uploader
 
-# Made By All classes patna ❤️
+# Made By 𑁍𝐀𝐛𝐡𝐢𑁍
 
 
 ## DEPLOY TO HEROKU
