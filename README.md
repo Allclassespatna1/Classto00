@@ -1,6 +1,6 @@
 # txt uploader
 
-# Made By 𑁍𝐀𝐛𝐡𝐢𑁍
+# Made By A Tomor
 
 
 ## DEPLOY TO HEROKU
