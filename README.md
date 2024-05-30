@@ -1,6 +1,6 @@
 # txt uploader
 
-# Made By A Tomor
+# Made By All classespatna ❤️
 
 
 ## DEPLOY TO HEROKU
